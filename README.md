@@ -1,5 +1,5 @@
 <h1>Curso de React.Js e Next.Js (nível intermediário e avançado)</h1>
-<p>Aprenda ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript.</p>
+<p> ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, HTML e CSS com TypeScript e JavaScript.</p>
 
 <h2>Descrição</h2>
 
